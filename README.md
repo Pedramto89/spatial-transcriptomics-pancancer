@@ -1,4 +1,4 @@
-# spatial-transcriptomics-pancancer
+# Spatial-transcriptomics-pancancer
 ## Live Updates: Spatial Transcriptomics Studies in Pancreatic Cancer
 
 This repository automates the generation of a live trend plot showing the number of publications on **spatial transcriptomics** studies in **pancreatic cancer** (searched in the title/abstract) from PubMed. The plot is updated weekly using GitHub Actions.
